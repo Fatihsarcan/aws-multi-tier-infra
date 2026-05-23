@@ -62,3 +62,7 @@ CloudWatch alarms configured for:
 - EC2 CPU > 80% → SNS alert
 - EC2 CPU < 20% → SNS alert  
 - ALB 5XX errors > 10 → SNS alert
+<img width="1913" height="979" alt="Ekran görüntüsü 2026-05-23 152531" src="https://github.com/user-attachments/assets/3e4d5be6-48fd-4097-b3fc-b6e9afb0fd2f" />
+
+<img width="1896" height="942" alt="Ekran görüntüsü 2026-05-23 152538" src="https://github.com/user-attachments/assets/51f5e656-5208-477b-bb41-d8b6f7b2b82a" />
+![Uploading Ekran görüntüsü 2026-05-23 152531.png…]()
